@@ -36,4 +36,4 @@ i found a old OLDDD IPV4 tracing script on github, was posted i belive 4-5 yeart
 
 [ALL IN ONE COMMAND]
 
-{+} sudo apt-get update && sudo apt-get upgrade --full && pip install colorama && pip install urllib && pip install requests && pip install pyfiglet && pip install socket && pip install regex && pip install termcolor && pip install urllib.request 
+{+} git clone https://github.com/ArkAngeL43/EVIL-Tracer.git && cd EVIL-Tracer && sudo apt-get update && sudo apt-get upgrade --full && pip install colorama && pip install urllib && pip install requests && pip install pyfiglet && pip install socket && pip install regex && pip install termcolor && pip install urllib.request 
